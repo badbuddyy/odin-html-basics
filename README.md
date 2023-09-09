@@ -1,1 +1,2 @@
 # odin-html-basics
+The "HTML Concept Showcase" is a web project demonstrating my expertise in HTML fundamentals. It includes structured content, semantic elements, forms, links, and accessibility features, with well-commented code for clarity. This showcase highlights my commitment to creating high-quality, standards-compliant web experiences.
